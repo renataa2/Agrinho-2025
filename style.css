@@ -1,0 +1,12 @@
+ body{
+    background:beige;
+    background-image: url(image\ 10.png);
+        line-height:2px;
+        font-size:2rem;
+        text-align:center;
+        color:black;
+        font-family:"big shoulders" ;
+    }
+    posicao{
+        text-align: center;
+    }
